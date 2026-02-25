@@ -6,7 +6,7 @@ description: |-
 
 # ZeroTier Provider
 
-Manage ZeroTier networks and members using Terraform. Supports both ZeroTier self-hosted controllers.
+Manage ZeroTier networks and members using Terraform. Supports ZeroTier self-hosted controllers.
 
 ## Example Usage
 ```terraform
