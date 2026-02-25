@@ -1,6 +1,6 @@
 # Terraform Provider for ZeroTier
 
-Manage ZeroTier networks and members with Terraform. Supports both ZeroTier Central and self-hosted controllers.
+Manage ZeroTier networks and members with Terraform. Supports self-hosted controllers.
 
 ## Installation
 ```hcl
